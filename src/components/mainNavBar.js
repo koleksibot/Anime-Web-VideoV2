@@ -28,7 +28,7 @@ function Navigation() {
                 backgroundImage: `url('https://media.discordapp.net/attachments/914572068123721788/924219001180127292/bot.png?width=676&height=676')`,
               }}
             ></div>
-            <span>Paff Wandering</span>
+            <span>Koleksibot</span>
           </Link>
           <div className="nav">
             <OldSchoolMenuLink to="/Home">
